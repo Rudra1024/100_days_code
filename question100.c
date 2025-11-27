@@ -1,4 +1,4 @@
-/*Print all sub-strings of a string.*/
+//Q100: Print all sub-strings of a string.
 #include <stdio.h>
 #include <string.h>
 
